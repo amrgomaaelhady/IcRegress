@@ -1,6 +1,8 @@
 # IcRegress #
 
-This repository has the code for the paper, "Looking for a better fit? An Incremental Learning Multimodal Object Referencing Framework adapting to Individual Drivers" at IUI 2024
+IcRegress is an incremental learning approach specifically designed for regression problems with exemplar data.
+
+The repository has the code for the implementation of this incremental learning method, named IcRegress, as introduced in the paper, "Looking for a better fit? An Incremental Learning Multimodal Object Referencing Framework adapting to Individual Drivers" at IUI 2024.
 
 ![alt text](https://github.com/amrgomaaelhady/IcRegress/blob/main/Fig.png)
 
