@@ -1,15 +1,15 @@
 # IcRegress #
 
-This repository has the code for the paper, Looking for a better fit? An Incremental Learning Multimodal Object Referencing Framework adapting to Individual Drivers at IUI 2024
+This repository has the code for the paper, "Looking for a better fit? An Incremental Learning Multimodal Object Referencing Framework adapting to Individual Drivers" at IUI 2024
 
-![alt text](https://github.com/amrgomaaelhady/MWL-PL-estimator/blob/main/Fig.png)
+![alt text](https://github.com/amrgomaaelhady/IcRegress/blob/main/Fig.png)
 
 - - -
 
 ## Conda Enviroment ##
-- To set it up in conda, please use the simplified requirements.txt as follows or use the detailed one:
+- To set it up in conda, please use the simplified requirements.txt as follows:
 ```
-conda create --name estimator --file requirements.txt
+conda create --name icregress --file requirements.txt
 ```
 - - -
 ## Citation ##
@@ -18,16 +18,16 @@ conda create --name estimator --file requirements.txt
 ```
 
 @inproceedings{10.1145/3543174.3546840,
-author = {Gomaa, Amr and Alles, Alexandra and Meiser, Elena and Rupp, Lydia Helene and Molz, Marco and Reyes, Guillermo},
-title = {What's on your mind? {A} Mental and Perceptual Load Estimation Framework towards Adaptive In-vehicle Interaction while Driving},
-year = {2022},
+author = {Gomaa, Amr and Reyes, Guillermo and Feld, Michael and Kr{\"u}ger, Antonio},
+title = {Looking for a better fit? {A}n Incremental Learning Multimodal Object Referencing Framework adapting to Individual Drivers},
+year = {2024},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3543174.3546840},
-doi = {10.1145/3543174.3546840},
-booktitle = {Proceedings of the 2022 International Conference on Automotive User Interfaces and Interactive Vehicular Applications},
-location = {Seoul, Republic of Korea},
-series = {AutomotiveUI '22}
+url = {},
+doi = {},
+booktitle = {Proceedings of the 29th International Conference on Intelligent User Interfaces},
+location = {},
+series = {IUI '24}
 }
 
 ```
