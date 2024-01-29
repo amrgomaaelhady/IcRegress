@@ -53,7 +53,7 @@ multiple_runs_concatenate('Per_Participant/Data_based_on_Speech_onset_P74.csv','
 
 - If you find this work helpful, please cite our paper:
 ```
-@inproceedings{10.1145/3543174.3546840,
+@inproceedings{2024gomaaincremental,
 author = {Gomaa, Amr and Reyes, Guillermo and Feld, Michael and Kr{\"u}ger, Antonio},
 title = {Looking for a better fit? {A}n Incremental Learning Multimodal Object Referencing Framework adapting to Individual Drivers},
 year = {2024},
