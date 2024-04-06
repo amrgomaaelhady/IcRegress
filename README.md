@@ -53,16 +53,19 @@ multiple_runs_concatenate('Per_Participant/Data_based_on_Speech_onset_P74.csv','
 
 - If you find this work helpful, please cite our paper:
 ```
-@inproceedings{2024gomaaincremental,
-author = {Gomaa, Amr and Reyes, Guillermo and Feld, Michael and Kr{\"u}ger, Antonio},
-title = {Looking for a better fit? {A}n Incremental Learning Multimodal Object Referencing Framework adapting to Individual Drivers},
+@inproceedings{gomaa2024incremental,
+author = {Gomaa, Amr and Reyes, Guillermo and Feld, Michael and Kr\"{u}ger, Antonio},
+title = {Looking for a better fit? An Incremental Learning Multimodal Object Referencing Framework adapting to Individual Drivers},
 year = {2024},
+isbn = {9798400705083},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {},
-doi = {},
+url = {https://doi.org/10.1145/3640543.3645152},
+doi = {10.1145/3640543.3645152},
 booktitle = {Proceedings of the 29th International Conference on Intelligent User Interfaces},
-location = {},
+pages = {1–13},
+numpages = {13},
+location = {Greenville, SC, USA},
 series = {IUI '24}
 }
 
