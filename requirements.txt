@@ -1,9 +1,9 @@
-python>3.8
+python>=3.8
 pytorch==1.7.1 
 torchvision==0.8.2 
 torchaudio==0.7.2 
 cudatoolkit
 matplotlib
-pandas
+pandas>=1.5.0
 scikit-learn
 jupyter
